@@ -1,4 +1,4 @@
-module github.com/flashdriveio/getting-started-with-golang
+module github.com/qoddiapps/getting-started-with-golang
 
 go 1.16
 
