@@ -3,7 +3,6 @@ import (
  "fmt"
  "net/http"
  "os"
-  _ "github.com/lib/pq"
 )
 func main() {
  var PORT string
